@@ -72,4 +72,4 @@ Type yes when prompted to approve the changes.
 7. Access the Website
 Once Terraform finishes applying, it will output the public IP of the EC2 instance. Open your browser and visit:
 http://<your-ec2-public-ip>
-You should now see your static website live.
+You should now see your static website live.   
